@@ -1,5 +1,5 @@
 {
-	"name": "yandex:go price chart",
+	"name": "yandex-go-price-chart",
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
